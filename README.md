@@ -10,9 +10,16 @@
 
 📫 Reach me at **matine.nassirpour@gmail.com**
 
-<br />
+![snake gif](https://github.com/matine-nassirpour/matine-nassirpour/blob/output/github-contribution-grid-snake.gif)
 
-<!-- <h1></h1> -->
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=matine-nassirpour&show_icons=true&locale=en" alt="matine-nassirpour" />
+</p>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matine-nassirpour&" alt="matine-nassirpour" />
+</p>
+
+<h1></h1>
 
 ### <img  alt="Screen" width="55px" align="middle" src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" /> Languages and tools 
 
@@ -40,15 +47,6 @@
 ![Apple](https://img.shields.io/badge/-Apple-003140?style=flat&logo=apple)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-003140?style=flat&logo=windows)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-003140?style=flat&logo=linux&logoColor=FFFFFF)&nbsp;
-
-<br />
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=matine-nassirpour&show_icons=true&locale=en" alt="matine-nassirpour" />
-</p>
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matine-nassirpour&" alt="matine-nassirpour" />
-</p>
 
 <h1></h1>
 
