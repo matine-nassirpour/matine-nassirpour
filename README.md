@@ -2,7 +2,7 @@
 
 <img alt="Coding" width="400px" align="right" src="https://www.mygo.ge/uploads/blog/1584023795.jpg"/>
 
-### Junior full-stack developer, passionate about web development and AI 
+### Junior full-stack web developer, passionate about web development and AI 
 
 👷 I’m currently working on [Maddie Doctor](https://www.maddiedoctor.com/)
 
