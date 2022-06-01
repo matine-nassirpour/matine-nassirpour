@@ -21,7 +21,7 @@
 
 <h1></h1>
 
-### <img  alt="Screen" width="55px" align="middle" src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" /> Languages and tools 
+### <img  alt="Screen" height="55px" align="middle" src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" /> Languages and tools 
 
 ![HTML](https://img.shields.io/badge/-HTML-003140?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-003140?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
