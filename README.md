@@ -1,8 +1,8 @@
-# <img align="top" alt="Hi" width="35px" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" /> Hello world, I'm Matine
+# <img align="top" alt="Hi" width="35px" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" /> Hello world, I'm Matine!
 
 <img alt="Coding" width="400px" align="right" src="https://www.mygo.ge/uploads/blog/1584023795.jpg"/>
 
-### Junior full-stack web developer, passionate about web development and AI 
+### Junior full-stack web developer, passionate about web development and AI.
 
 👷 I’m currently working on [RSight](https://www.rsight.com/)
 
