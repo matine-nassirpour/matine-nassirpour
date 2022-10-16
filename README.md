@@ -8,7 +8,7 @@
 
 🗃️ My projects are available at [My portfolio](https://google.com/)
 
-📫 Reach me at **matine.nassirpour@gmail.com**
+<!-- 📫 Reach me at **matine.nassirpour@gmail.com** -->
 
 ![snake gif](https://github.com/matine-nassirpour/matine-nassirpour/blob/output/github-contribution-grid-snake.gif)
 
