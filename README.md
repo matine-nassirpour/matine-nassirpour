@@ -4,7 +4,7 @@
 
 ### Junior full-stack web developer, passionate about web development and AI 
 
-👷 I’m currently working on [Maddie Doctor](https://www.maddiedoctor.com/)
+👷 I’m currently working on [RSight](https://www.rsight.com/)
 
 🗃️ My projects are available at [https://ipiei.com/](https://ipiei.com/)
 
