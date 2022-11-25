@@ -6,7 +6,7 @@
 
 👷 I’m currently working on [RSight](https://www.rsight.com/)
 
-🗃️ My projects are available at [My portfolio](https://google.com/)
+<!-- 🗃️ My projects are available at [My portfolio](https://google.com/) -->
 
 <!-- 📫 Reach me at **matine.nassirpour@gmail.com** -->
 
