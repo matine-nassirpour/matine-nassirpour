@@ -4,7 +4,7 @@
 
 ### Full-stack web developer, passionate about web development and AI.
 
-👷 I’m currently working on [RSight](https://www.rsight.com/)
+👷 I work at [RSight](https://www.rsight.com/) 
 
 <!-- 🗃️ My projects are available at [My portfolio](https://google.com/) -->
 
