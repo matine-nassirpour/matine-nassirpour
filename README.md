@@ -22,6 +22,11 @@
 ### <img  alt="Screen" height="55px" align="middle" src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" /> Languages and tools 
 
 ![Python](https://img.shields.io/badge/-Python-003140?style=flat&logo=Python)&nbsp;
+![FastAPI](https://img.shields.io/badge/-FastAPI-003140?style=flat&logo=FastAPI)&nbsp;
+![Django](https://img.shields.io/badge/-Django-003140?style=flat&logo=Django)&nbsp;\
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-003140?style=flat&logo=postgresql&logoColor=FFFFFF)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-003140?style=flat&logo=mysql&logoColor=FFFFFF)&nbsp;
+![SQLite](https://img.shields.io/badge/-SQLite-003140?style=flat&logo=sqlite&logoColor=75BFE6)\
 ![HTML](https://img.shields.io/badge/-HTML-003140?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-003140?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![SCSS](https://img.shields.io/badge/-SCSS-003140?style=flat&logo=SASS)&nbsp;
@@ -32,10 +37,6 @@
 ![Webpack](https://img.shields.io/badge/-Webpack-003140?style=flat&logo=webpack)\
 ![PHP](https://img.shields.io/badge/-PHP-003140?style=flat&logo=php)&nbsp;
 ![Symfony](https://img.shields.io/badge/-Symfony-003140?style=flat&logo=symfony)&nbsp;
-![Java](https://img.shields.io/badge/-Java-003140?style=flat&logo=java)\
-![MySQL](https://img.shields.io/badge/-MySQL-003140?style=flat&logo=mysql&logoColor=FFFFFF)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-003140?style=flat&logo=postgresql&logoColor=FFFFFF)&nbsp;
-![SQLite](https://img.shields.io/badge/-SQLite-003140?style=flat&logo=sqlite&logoColor=75BFE6)\
 ![Git](https://img.shields.io/badge/-Git-FFFFFF?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-FFFFFF?style=flat&logo=github&logoColor=1B1F23)&nbsp;
 ![CircleCI](https://img.shields.io/badge/-CircleCI-FFFFFF?style=flat&logo=circleci&logoColor=141314)&nbsp;
