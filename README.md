@@ -4,8 +4,6 @@
 
 ### Full-stack web developer, passionate about web development and AI.
 
-👷 I work at [RSight](https://www.rsight.com/) 
-
 <!-- 🗃️ My projects are available at [My portfolio](https://google.com/) -->
 
 <!-- 📫 Reach me at **matine.nassirpour@gmail.com** -->
@@ -23,6 +21,7 @@
 
 ### <img  alt="Screen" height="55px" align="middle" src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" /> Languages and tools 
 
+![Python](https://img.shields.io/badge/-Python-003140?style=flat&logo=Python)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-003140?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-003140?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![SCSS](https://img.shields.io/badge/-SCSS-003140?style=flat&logo=SASS)&nbsp;
