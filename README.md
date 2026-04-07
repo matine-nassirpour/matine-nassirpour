@@ -23,24 +23,18 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-003140?style=flat&logo=postgresql&logoColor=FFFFFF)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-003140?style=flat&logo=mysql&logoColor=FFFFFF)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-003140?style=flat&logo=sqlite&logoColor=75BFE6)\
-![HTML](https://img.shields.io/badge/-HTML-003140?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-003140?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![SCSS](https://img.shields.io/badge/-SCSS-003140?style=flat&logo=SASS)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-003140?style=flat&logo=bootstrap&logoColor=7010EF)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-003140?style=flat&logo=Angular&logoColor=DE0837)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-003140?style=flat&logo=TypeScript)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-003140?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-003140?style=flat&logo=node.js)&nbsp;
-![jQuery](https://img.shields.io/badge/-jQuery-003140?style=flat&logo=jquery&logoColor=0868AC)&nbsp;
-![Webpack](https://img.shields.io/badge/-Webpack-003140?style=flat&logo=webpack)\
+![HTML](https://img.shields.io/badge/-HTML-003140?style=flat&logo=HTML5)&nbsp;
+![SCSS](https://img.shields.io/badge/-SCSS-003140?style=flat&logo=SASS)&nbsp;\
+![Docker](https://img.shields.io/badge/-Docker-FFFFFF?style=flat&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-FFFFFF?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-FFFFFF?style=flat&logo=github&logoColor=1B1F23)&nbsp;
-![CircleCI](https://img.shields.io/badge/-CircleCI-FFFFFF?style=flat&logo=circleci&logoColor=141314)&nbsp;
-![Jenkins](https://img.shields.io/badge/-Jenkins-FFFFFF?style=flat&logo=jenkins)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-FFFFFF?style=flat&logo=docker)\
-![Photoshop](https://img.shields.io/badge/-Photoshop-003140?style=flat&logo=adobe-photoshop)&nbsp;
-![InVision](https://img.shields.io/badge/-InVision-003140?style=flat&logo=invision)\
-![Apple](https://img.shields.io/badge/-Apple-003140?style=flat&logo=apple)&nbsp;
+![Jenkins](https://img.shields.io/badge/-Jenkins-FFFFFF?style=flat&logo=jenkins)&nbsp;\
 ![Windows](https://img.shields.io/badge/-Windows-003140?style=flat&logo=windows)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-003140?style=flat&logo=linux&logoColor=FFFFFF)&nbsp;
+![Apple](https://img.shields.io/badge/-Apple-003140?style=flat&logo=apple)&nbsp;
 
 <h1></h1>
 
