@@ -31,8 +31,6 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-003140?style=flat&logo=node.js)&nbsp;
 ![jQuery](https://img.shields.io/badge/-jQuery-003140?style=flat&logo=jquery&logoColor=0868AC)&nbsp;
 ![Webpack](https://img.shields.io/badge/-Webpack-003140?style=flat&logo=webpack)\
-![PHP](https://img.shields.io/badge/-PHP-003140?style=flat&logo=php)&nbsp;
-![Symfony](https://img.shields.io/badge/-Symfony-003140?style=flat&logo=symfony)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-FFFFFF?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-FFFFFF?style=flat&logo=github&logoColor=1B1F23)&nbsp;
 ![CircleCI](https://img.shields.io/badge/-CircleCI-FFFFFF?style=flat&logo=circleci&logoColor=141314)&nbsp;
