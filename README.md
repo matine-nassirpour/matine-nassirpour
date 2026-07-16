@@ -1,9 +1,54 @@
-# 👋 Hello world, I'm Matine!
-
-<img alt="Coding" width="400px" align="right" src="https://www.mygo.ge/uploads/blog/1584023795.jpg"/>
+# 👋 Hello, I'm Matine
 
 ### Software Engineer
-#### Building scalable APIs and distributed systems
+
+I build scalable APIs, distributed systems and maintainable backend applications
+using Python, FastAPI and PostgreSQL.
+
+I am particularly interested in clean architecture, domain-driven design,
+event-driven systems, cloud-native development and automated delivery.
+
+
+## 🧑‍💻 About me
+
+- 🔭 Building backend services and REST APIs with **Python and FastAPI**
+- 🏗️ Interested in **Clean Architecture, DDD and microservices**
+- 🗄️ Working with relational databases, especially **PostgreSQL**
+- 🐳 Containerizing and deploying applications with **Docker**
+- ⚙️ Automating testing and delivery through **CI/CD**
+- ☁️ Exploring cloud-native development and **Azure DevOps**
+
+
+## 🛠️ Technologies
+
+### Backend
+
+![Python](https://img.shields.io/badge/Python-003140?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-003140?style=flat&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-003140?style=flat&logo=django&logoColor=white)
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-003140?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-003140?style=flat&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003140?style=flat&logo=sqlite&logoColor=white)
+
+### Frontend
+
+![Angular](https://img.shields.io/badge/Angular-003140?style=flat&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-003140?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-003140?style=flat&logo=javascript&logoColor=white)
+
+### DevOps and tools
+
+![Docker](https://img.shields.io/badge/Docker-003140?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-003140?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-003140?style=flat&logo=github&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-003140?style=flat&logo=jenkins&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-003140?style=flat&logo=linux&logoColor=white)
+
+
+## 🐍 Contribution activity
 
 <picture>
   <source
@@ -20,36 +65,20 @@
   />
 </picture>
 
+
+## 📊 GitHub statistics
+
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=matine-nassirpour&show_icons=true&locale=en" alt="matine-nassirpour" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=matine-nassirpour&show_icons=true&hide_border=true"
+    alt="Matine's GitHub statistics"
+  />
 </p>
+
+
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matine-nassirpour&" alt="matine-nassirpour" />
+  <img
+    src="https://komarev.com/ghpvc/?username=matine-nassirpour&label=Profile%20views&color=0e75b6&style=flat"
+    alt="Profile views"
+  />
 </p>
-
-<h1></h1>
-
-### <img  alt="Screen" height="55px" align="middle" src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" /> Languages and tools 
-
-![Python](https://img.shields.io/badge/-Python-003140?style=flat&logo=Python)&nbsp;
-![FastAPI](https://img.shields.io/badge/-FastAPI-003140?style=flat&logo=FastAPI)&nbsp;
-![Django](https://img.shields.io/badge/-Django-003140?style=flat&logo=Django)&nbsp;\
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-003140?style=flat&logo=postgresql&logoColor=FFFFFF)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-003140?style=flat&logo=mysql&logoColor=FFFFFF)&nbsp;
-![SQLite](https://img.shields.io/badge/-SQLite-003140?style=flat&logo=sqlite&logoColor=75BFE6)\
-![Angular](https://img.shields.io/badge/-Angular-003140?style=flat&logo=Angular&logoColor=DE0837)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-003140?style=flat&logo=TypeScript)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-003140?style=flat&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-003140?style=flat&logo=HTML5)&nbsp;
-![SCSS](https://img.shields.io/badge/-SCSS-003140?style=flat&logo=SASS)&nbsp;\
-![Docker](https://img.shields.io/badge/-Docker-FFFFFF?style=flat&logo=docker)
-![Git](https://img.shields.io/badge/-Git-FFFFFF?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-FFFFFF?style=flat&logo=github&logoColor=1B1F23)&nbsp;
-![Jenkins](https://img.shields.io/badge/-Jenkins-FFFFFF?style=flat&logo=jenkins)&nbsp;\
-![Windows](https://img.shields.io/badge/-Windows-003140?style=flat&logo=windows)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-003140?style=flat&logo=linux&logoColor=FFFFFF)&nbsp;
-![Apple](https://img.shields.io/badge/-Apple-003140?style=flat&logo=apple)&nbsp;
-
-<h1></h1>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=matine-nassirpour&label=Profile%20views&color=0e75b6&style=flat" alt="matine-nassirpour" /> </p>
