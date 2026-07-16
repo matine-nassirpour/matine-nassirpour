@@ -1,4 +1,4 @@
-# Hello world, I'm Matine!
+# Hello world, I'm Matine 👋
 
 <img alt="Coding" width="400px" align="right" src="https://www.mygo.ge/uploads/blog/1584023795.jpg"/>
 
