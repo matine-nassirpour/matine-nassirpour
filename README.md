@@ -53,6 +53,15 @@ event-driven systems, cloud-native development and automated delivery.
 </picture>
 
 
+## 🤝 Let's connect
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-003140?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nassirpour.org)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Matine%20Nassirpour-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matine-nassirpoiur)
+
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matine@nassirpour.org)
+
+
 ## 📊 Statistics
 
 <p>
