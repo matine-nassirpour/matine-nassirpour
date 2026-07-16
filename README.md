@@ -5,7 +5,20 @@
 ### Software Engineer
 #### Building scalable APIs and distributed systems
 
-![snake animation](https://raw.githubusercontent.com/matine-nassirpour/matine-nassirpour/output/github-contribution-grid-snake.svg)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/matine-nassirpour/matine-nassirpour/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/matine-nassirpour/matine-nassirpour/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub contribution snake animation"
+    src="https://raw.githubusercontent.com/matine-nassirpour/matine-nassirpour/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=matine-nassirpour&show_icons=true&locale=en" alt="matine-nassirpour" />
