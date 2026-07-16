@@ -9,7 +9,7 @@ I am particularly interested in clean architecture, domain-driven design,
 event-driven systems, cloud-native development and automated delivery.
 
 
-## 🧑‍💻 About me
+## 👷🏻‍♂️ About me
 
 - 🔭 Building backend services and REST APIs with **Python and FastAPI**
 - 🏗️ Interested in **Clean Architecture, DDD and microservices**
