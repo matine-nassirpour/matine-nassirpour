@@ -2,7 +2,7 @@
 
 <img alt="Coding" width="400px" align="right" src="https://www.mygo.ge/uploads/blog/1584023795.jpg"/>
 
-### Python Backend Engineer | APIs & Distributed Systems.
+### Ingénieur logiciel | Python Backend Engineer | FastAPI • REST APIs • Microservices • PostgreSQL | Cloud Native • Docker • Azure DevOps | Clean Architecture • DDD • Event-Driven | CI/CD • Mise en production automatisée
 
 ![snake gif](https://github.com/matine-nassirpour/matine-nassirpour/blob/output/github-contribution-grid-snake.gif)
 
